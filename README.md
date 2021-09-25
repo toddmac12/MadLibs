@@ -5,7 +5,7 @@ _This program was made to practice C# and ASP.NET Core MVC. The Model-View-Contr
 * C#
 * .NET Core
 ## Setup/Installation Requirements
-* Clone repository from GitHub to desired location using: $ git clone https://github.com/louiesch/FriendLetter
+* Clone repository from GitHub to desired location using: $ git clone https://github.com/toddmac12/Hello-Friend-Letter.git
 * Navigate to and open project directory in terminal
 * cd FriendLetter.Solution
 
