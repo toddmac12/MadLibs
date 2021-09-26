@@ -30,3 +30,5 @@ C:\Users\toddm\Desktop\Epicodus\Week 9 Web Apps\FriendLetter.Solution\FriendLett
 C:\Users\toddm\Desktop\Epicodus\Week 9 Web Apps\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp5.0\FriendLetter.RazorTargetAssemblyInfo.cs
 C:\Users\toddm\Desktop\Epicodus\Week 9 Web Apps\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp5.0\FriendLetter.Views.pdb
 C:\Users\toddm\Desktop\Epicodus\Week 9 Web Apps\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp5.0\FriendLetter.csproj.CopyComplete
+C:\Users\toddm\Desktop\Epicodus\Week 9 Web Apps\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp5.0\Razor\Views\Home\Form.cshtml.g.cs
+C:\Users\toddm\Desktop\Epicodus\Week 9 Web Apps\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp5.0\Razor\Views\Home\Postcard.cshtml.g.cs
