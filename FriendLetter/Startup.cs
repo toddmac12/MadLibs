@@ -27,7 +27,7 @@ namespace FriendLetter
     public void Configure(IApplicationBuilder app)
     {
       app.UseRouting();
-app.UseDeveloperExceptionPage(); 
+      app.UseDeveloperExceptionPage(); 
       app.UseEndpoints(routes =>
       {
         routes.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
